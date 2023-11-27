@@ -1,6 +1,7 @@
 # Weather_information
 
 Set-up instructions:
+
 1.Install the necessary packages of python 
   command : pip install Flask requests
 
