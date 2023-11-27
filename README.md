@@ -1,4 +1,5 @@
 # Weather_information
+OpenWeatherMap API is used in this code for weather data. 
 
 Set-up instructions:
 
